@@ -1,7 +1,0 @@
-To install in a directory:
-
-tar -xvf laplacian_learn.tar
-
-To run the experiments from A. Argyriou, M. Herbster, M. Pontil, "Combining Graph Laplacians for Semi--Supervised Learning":
-
-usps_experiments
