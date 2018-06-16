@@ -4,4 +4,7 @@ Our methodology is based on *multiple kernel learning* and the connection betwee
 The algorithm is described in the paper [Combining Graph Laplacians for Semi-Supervised Learning.](http://papers.nips.cc/paper/2938-combining-graph-laplacians-for-semi-supervised-learning.pdf)
 The code also includes implementation of a few image transformations such as tangent distances.
 
+To run the experiments from the paper call  
+`usps_experiments`
+
 
